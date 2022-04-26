@@ -8,7 +8,7 @@
 
 ## Task 1. virtual-piano
 
-![screenshot](../images/virtual-piano.png)
+![screenshot](images/virtual-piano.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/virtual-piano/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/virtual-piano)

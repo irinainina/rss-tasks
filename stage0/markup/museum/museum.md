@@ -2,6 +2,20 @@
 
 **Ваша задача** – сверстать landing page Лувра – одного из крупнейших и наиболее популярных художественных музеев мира.
 
+<kbd>[![screenshot](images/museum-prev.jpg)](https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/images/museum.jpg)</kbd>
+
+[Макет Museum](https://www.figma.com/file/7dI6mXBFTdTvXxuhZZTt5h/Museum)  
+[Советы по выполнению задания](museum-hints.md)  
+[Видео с обзором задания](https://youtu.be/OF9zQ0jRx4E)  
+[Используемые в макете ссылки](https://github.com/rolling-scopes-school/stage1-tasks/blob/museum/README.md)
+
+## Создание собственной копии макета:
+- авторизуемся в Фигме
+- открываем макет
+- нажимаем на стрелку рядом с названием макета на панели вверху, выбираем пункт "Duplicate to your drafts"
+- слева вверху открываем настройки, выбираем "Back to files"
+- открываем копию макета рядом с которой есть надпись "In Drafts"
+
 ## Ключевые навыки:
 - валидная семантическая вёрстка
 - легкоподдерживаемый читаемый код
@@ -23,20 +37,6 @@
 - фиксированная вёрстка - 1 неделя
 - адаптивная вёрстка - 1 неделя
 - добавление интерактивности при помощи JavaScript - 2 недели
-
-<kbd>[![screenshot](images/museum-prev.jpg)](https://raw.githubusercontent.com/rolling-scopes-school/tasks/master/tasks/images/museum.jpg)</kbd>
-
-[Макет Museum](https://www.figma.com/file/7dI6mXBFTdTvXxuhZZTt5h/Museum)  
-[Советы по выполнению задания](museum-hints.md)  
-[Видео с обзором задания](https://youtu.be/OF9zQ0jRx4E)  
-[Используемые в макете ссылки](https://github.com/rolling-scopes-school/stage1-tasks/blob/museum/README.md)
-
-## Создание собственной копии макета:
-- авторизуемся в Фигме
-- открываем макет
-- нажимаем на стрелку рядом с названием макета на панели вверху, выбираем пункт "Duplicate to your drafts"
-- слева вверху открываем настройки, выбираем "Back to files"
-- открываем копию макета рядом с которой есть надпись "In Drafts"
 
 ## Структура макета:
 - Макет состоит из трёх блоков: `<header>`, `<main>`, `<footer>`

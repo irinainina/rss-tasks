@@ -8,7 +8,7 @@
 
 ## Task 2. photo-filter
 
-![screenshot](../images/photo-filter.png)
+![screenshot](images/photo-filter.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/photo-filter/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/photo-filter)

@@ -10,7 +10,7 @@
 
 ## Task 3. sounds-app
 
-![screenshot](../images/sounds-app.png)
+![screenshot](images/sounds-app.png)
 
 - [Демо](https://rolling-scopes-school.github.io/stage1-tasks/sounds-app/)
 - [Файлы проекта](https://github.com/rolling-scopes-school/stage1-tasks/tree/sounds-app)

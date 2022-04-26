@@ -1,9 +1,9 @@
 # JavaScript projects
 
 В stage1 вам предлагается выполнить несколько js-проектов, каждый из которых представляет собой небольшое одностраничное приложение:
-1. [virtual-piano](stage1/tasks/js-projects/virtual-piano.md) 
-2. [photo-filter](stage1/tasks/js-projects/photo-filter.md)
-3. [sounds-app](stage1/tasks/js-projects/sounds-app.md)
+1. [virtual-piano](stage0/js-projects.1/virtual-piano.md) 
+2. [photo-filter](stage0/js-projects.1/photo-filter.md)
+3. [sounds-app](stage0/js-projects.1/sounds-app.md)
 
 Для того, чтобы помочь вам выполнить задание, в его описании кроме перечня требований и критериев оценки также могут присутствовать:
 - демо приложения. Обратите внимание, демо - не идеальный пример, а рабочий прототип того, что должно получиться в итоге. Его задача - уточнить требования задания, сделать их более понятными. 
